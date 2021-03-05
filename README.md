@@ -18,7 +18,7 @@ The code that we used for this simulation, including the rest of the instraction
 ---
 ## Pretrained Model Usage
 
-You can either pretrain or download the pretrained CDLM model weights and tokenizer files, which are available [here](https://drive.google.com/file/d/1TlWjVl8_15B_l9jDETKLQRaonVqJlOsj/view?usp=sharing). 
+You can either pretrain or download the pretrained CDLM model weights and tokenizer files, which are available [here](https://drive.google.com/drive/folders/1txXAZbt-C53FcgtbL9DNvUCacZV9xxdC?usp=sharing). 
 
 Then, create the directory `CDLM` and place there all the weights and tokenizer files. For loading the model and tokenizer, use
 ```python
