@@ -1,0 +1,2 @@
+numpy
+scipy>=0.17.0

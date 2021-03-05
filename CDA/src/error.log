@@ -1,0 +1,16 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "read_embedding.py", line 13, in <module>
+    abc = read_embedding("../data/word_embedding/w2v-zh.model")
+  File "read_embedding.py", line 3, in read_embedding
+    f = open(gloveFile,'r')
+NameError: name 'gloveFile' is not defined
+nohup: ignoring input
+Traceback (most recent call last):
+  File "read_embedding.py", line 13, in <module>
+    abc = read_embedding("../data/word_embedding/w2v-zh.model")
+  File "read_embedding.py", line 8, in read_embedding
+    embedding = np.array([float(val) for val in splitLine[1:]])
+  File "read_embedding.py", line 8, in <listcomp>
+    embedding = np.array([float(val) for val in splitLine[1:]])
+ValueError: could not convert string to float: '华'

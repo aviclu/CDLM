@@ -1,0 +1,55 @@
+8
+{"loss": 0.690221674323082, "learning_rate": 1.9250975682978086e-05, "step": 500}
+./cite_model_sent
+{"loss": 0.6666077065467835, "learning_rate": 1.8500450315220655e-05, "step": 1000}
+./cite_model_sent
+{"loss": 0.6504975162744522, "learning_rate": 1.7749924947463225e-05, "step": 1500}
+./cite_model_sent
+{"loss": 0.6407312086820602, "learning_rate": 1.6999399579705794e-05, "step": 2000}
+./cite_model_sent
+{"loss": 0.6335724471211434, "learning_rate": 1.6248874211948364e-05, "step": 2500}
+./cite_model_sent
+{"loss": 0.6191139532327652, "learning_rate": 1.5498348844190937e-05, "step": 3000}
+./cite_model_sent
+{"loss": 0.6131081233024597, "learning_rate": 1.4747823476433504e-05, "step": 3500}
+./cite_model_sent
+{"loss": 0.6085940919518471, "learning_rate": 1.3997298108676074e-05, "step": 4000}
+./cite_model_sent
+{"loss": 0.5962843620181084, "learning_rate": 1.3246772740918643e-05, "step": 4500}
+./cite_model_sent
+{"loss": 0.5988178674578667, "learning_rate": 1.2496247373161215e-05, "step": 5000}
+./cite_model_sent
+{"loss": 0.5990772755742073, "learning_rate": 1.1745722005403784e-05, "step": 5500}
+./cite_model_sent
+{"loss": 0.5847054595947265, "learning_rate": 1.0995196637646352e-05, "step": 6000}
+./cite_model_sent
+{"loss": 0.5750953968763352, "learning_rate": 1.0244671269888923e-05, "step": 6500}
+./cite_model_sent
+{"loss": 0.582382597386837, "learning_rate": 9.494145902131493e-06, "step": 7000}
+./cite_model_sent
+{"loss": 0.5670823083817959, "learning_rate": 8.743620534374062e-06, "step": 7500}
+./cite_model_sent
+{"loss": 0.5776204956173897, "learning_rate": 7.993095166616632e-06, "step": 8000}
+./cite_model_sent
+{"loss": 0.5759434573352337, "learning_rate": 7.242569798859203e-06, "step": 8500}
+./cite_model_sent
+{"loss": 0.573837861597538, "learning_rate": 6.492044431101772e-06, "step": 9000}
+./cite_model_sent
+{"loss": 0.5540888516902923, "learning_rate": 5.741519063344342e-06, "step": 9500}
+./cite_model_sent
+{"loss": 0.5610210529863834, "learning_rate": 4.9909936955869115e-06, "step": 10000}
+./cite_model_sent
+{"loss": 0.5471520802676678, "learning_rate": 4.240468327829481e-06, "step": 10500}
+./cite_model_sent
+{"loss": 0.5413210568130016, "learning_rate": 3.489942960072051e-06, "step": 11000}
+./cite_model_sent
+{"loss": 0.5470964836776256, "learning_rate": 2.7394175923146205e-06, "step": 11500}
+./cite_model_sent
+{"loss": 0.5361854020655156, "learning_rate": 1.98889222455719e-06, "step": 12000}
+./cite_model_sent
+{"loss": 0.5463065188527108, "learning_rate": 1.23836685679976e-06, "step": 12500}
+./cite_model_sent
+{"loss": 0.5454102400839329, "learning_rate": 4.878414890423297e-07, "step": 13000}
+./cite_model_sent
+8
+8
