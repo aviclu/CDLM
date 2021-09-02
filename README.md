@@ -2,8 +2,8 @@
 
 This repository contains the accompanying code for the paper:
 
-**"Cross-Document Language Modeling."** Avi Caciularu, Arman Cohan, Iz Beltagy, Matthew E Peters, Arie Cattan 
-and Ido Dagan. *Appears on arXiv*.
+**"CDLM: Cross-Document Language Modeling."** Avi Caciularu, Arman Cohan, Iz Beltagy, Matthew E Peters, Arie Cattan 
+and Ido Dagan. *In EMNLP Findings, 2021*.
 [[PDF]](https://arxiv.org/pdf/2101.00406.pdf)
 
 
@@ -12,8 +12,8 @@ The repository contains:
 * Implementation of the CDMLM pretraining, based on the *Huggingface* code (in `pretraining` dir).
 * Code for finetuning over cross-document coreference resolution (in `cross_encoder` dir).
 * Code for finetuning over multi-document classification tasks (in `CDA` dir).
-* Note that we executed experiments also over the multi-hop question answering task, using the *HotpotQA* dataset. 
-The code that we used for this simulation, including the rest of the instractions, appears [here](https://github.com/armancohan/longformer/tree/hotpotqa).
+* Code for the attention analysis over the sampled ECB+ dataset (in `attention_analysis` dir).
+* Code for finetuning over the multi-hop question answering task, using the *HotpotQA* dataset, including instructions, appears [here](https://github.com/armancohan/longformer/tree/hotpotqa).
 
 ---
 ## Pretrained Model Usage
@@ -40,7 +40,7 @@ If you find our work useful, please cite the paper as:
 @article{caciularu2021cross,
   title={Cross-Document Language Modeling},
   author={Caciularu, Avi and Cohan, Arman and Beltagy, Iz and Peters, Matthew E and Cattan, Arie and Dagan, Ido},
-  journal={arXiv preprint arXiv:2101.00406},
+  journal={Findings of the Association for Computational Linguistics: EMNLP 2021},
   year={2021}
 }
 ```
