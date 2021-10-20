@@ -18,14 +18,14 @@ The repository contains:
 ---
 ## Pretrained Model Usage
 
-You can either pretrain or download the pretrained CDLM model weights and tokenizer files, which are available [here](https://drive.google.com/drive/folders/1txXAZbt-C53FcgtbL9DNvUCacZV9xxdC?usp=sharing). 
+You can either pretrain by yourself or use the pretrained CDLM model weights and tokenizer files, which are available on [HuggingFace](https://huggingface.co/biu-nlp/cdlm). 
 
-Then, create the directory `CDLM` and place there all the weights and tokenizer files. For loading the model and tokenizer, use
+Then, use
 ```python
 from transformers import AutoTokenizer, AutoModel
 # load model and tokenizer
-tokenizer = AutoTokenizer.from_pretrained('CDLM')
-model = AutoModel.from_pretrained('CDLM')
+tokenizer = AutoTokenizer.from_pretrained('biu-nlp/cdlm')
+model = AutoModel.from_pretrained('biu-nlp/cdlm')
 ```
 
 Please note that during our pretraining we used the document and sentence separators, which you might want to add to your data. The document and sentence separators are `<doc-s>`, `</doc-s>` (the last two tokens in the vocabulary), and `<s>`, `</s>`, respectively.
