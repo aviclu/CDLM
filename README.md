@@ -37,8 +37,8 @@ Please note that during our pretraining we used the document and sentence separa
 If you find our work useful, please cite the paper as:
 
 ```bibtex
-@article{caciularu2021cross,
-  title={Cross-Document Language Modeling},
+@article{caciularu2021CDLM,
+  title={CDLM: Cross-Document Language Modeling},
   author={Caciularu, Avi and Cohan, Arman and Beltagy, Iz and Peters, Matthew E and Cattan, Arie and Dagan, Ido},
   journal={Findings of the Association for Computational Linguistics: EMNLP 2021},
   year={2021}
